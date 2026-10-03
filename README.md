@@ -20,8 +20,8 @@ The goal of this repository is to understand machine learning algorithms from sc
 
 | No. | Algorithm | Project | Status |
 |-----|-----------|---------|--------|
-| 01 | Linear Regression | Coming Soon | ⏳ |
-| 02 | Logistic Regression | Coming Soon | ⏳ |
+| 01 | Linear Regression | Completed | ✅ |
+| 02 | Logistic Regression | Completed | ✅ |
 | 03 | K-Nearest Neighbors | Coming Soon | ⏳ |
 | 04 | Decision Tree | Coming Soon | ⏳ |
 | 05 | Random Forest | Coming Soon | ⏳ |
