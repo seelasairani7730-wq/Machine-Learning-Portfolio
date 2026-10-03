@@ -282,7 +282,7 @@ Customer_Churn_Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <seelasairani7730-wq>
 cd Customer_Churn_Prediction
 ```
 
