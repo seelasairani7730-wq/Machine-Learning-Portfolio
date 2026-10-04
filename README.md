@@ -22,7 +22,7 @@ The goal of this repository is to understand machine learning algorithms from sc
 |-----|-----------|---------|--------|
 | 01 | Linear Regression | Completed | ✅ |
 | 02 | Logistic Regression | Completed | ✅ |
-| 03 | K-Nearest Neighbors | Coming Soon | ⏳ |
+| 03 | K-Nearest Neighbors | Completed | ✅ |
 | 04 | Decision Tree | Coming Soon | ⏳ |
 | 05 | Random Forest | Coming Soon | ⏳ |
 | 06 | Support Vector Machine | Coming Soon | ⏳ |
